@@ -43,8 +43,8 @@ img{
     margin-top: 3rem;
     gap: 5rem;
 }
-#user-score, 
-#aibot-score{
+#userScore, 
+#aiBotScore{
     font-size: 4rem;
 }
 .msg-container{
